@@ -1,0 +1,69 @@
+Dirty Dancing
+Drama
+1987
+20 30
+Central Park
+https://youtube.com/watch?v=eIcmQNy9FsM
+
+Grease
+Musical
+1978
+18 45
+Cinema
+https://www.youtube.com/watch?v=f2CCEixOVVU
+
+Donnie Darko
+Mystery
+2001
+22 00
+Central Park
+https://www.youtube.com/watch?v=ZZyBaFYFySk
+
+Alvin and the chipmunks
+Animation
+2007
+16 00
+Cinema
+https://www.youtube.com/watch?v=sc-C8uumMkw
+
+Shutter Island
+Mystery
+2010
+20 00
+Memorandumului
+https://www.youtube.com/watch?v=5iaYLCiq5RM
+
+Pokemon Detective Pikachu
+Animation
+2019
+17 30
+Cinema
+https://www.youtube.com/watch?v=1roy4o4tqQM&t=2s
+
+The Butterfly Effect
+Drama
+2004
+19 45
+Hasdeu
+https://www.youtube.com/watch?v=B8_dgqfPXFg
+
+Zodiac
+Drama
+2007
+23 30
+Central Park
+https://www.youtube.com/watch?v=yNncHPl1UXg
+
+The Da Vinci Code
+Mystery
+2006
+23 30
+Memodandumului
+https://www.youtube.com/watch?v=lfqHb6INj3w
+
+La La Land
+Musical
+2016
+20 00
+Central Park
+https://www.youtube.com/watch?v=0pdqf4P9MB8
